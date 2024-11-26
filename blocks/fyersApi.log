@@ -1,0 +1,1 @@
+{"level":"ERROR","location":"[get_call:143] fyersModel","message":{"API":"/quotes","Error":{"message":"Please provide valid token","code":-15,"s":"error"}},"timestamp":"2024-11-25 23:29:09,973+0530","service":"FyersAPI"}
